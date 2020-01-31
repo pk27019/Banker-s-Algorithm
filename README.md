@@ -13,3 +13,7 @@ Processes Allocation   Max
      P3       2 1 1    2 2 2
      P4       0 0 2    4 3 3 
   
+
+
+
+Click On Raw to view it properly!
