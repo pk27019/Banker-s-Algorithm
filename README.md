@@ -16,4 +16,4 @@ Processes Allocation   Max
 
 
 
-Click On Raw to view it properly!
+Click On the README.md file and then click on Raw to view it properly!
